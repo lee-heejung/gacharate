@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">gacharate</string>
+    <string name="admob_app_id">ca-app-pub-6423105494384497~9282994542</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6423105494384497/5703498722</string>
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
